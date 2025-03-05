@@ -37,7 +37,7 @@ Ensure you have the following installed before running the script:
    python script.py
    ```
 2. Follow the prompts to enter:
-   - Mobile Number (Format: `678-123-4567`)
+   - Mobile Number (Format: `934-783-5573`)
    - Instagram ID
    - Email (Only `@gmail.com` addresses are accepted)
 3. The script will validate inputs and send an email containing your profile details.
